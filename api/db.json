@@ -1,0 +1,32 @@
+{
+  "streams": [
+    {
+      "title": "test",
+      "description": "test",
+      "id": 1
+    },
+    {
+      "title": "Song about cherries",
+      "description": "The cherries are very very tasty",
+      "userId": "117886372911327719817",
+      "id": 2
+    },
+    {
+      "title": "Song about cherries",
+      "description": "The cherries are very very tasty",
+      "userId": "117886372911327719817",
+      "id": 3
+    },
+    {
+      "title": "Programmatic navigation",
+      "description": "patch",
+      "userId": "117886372911327719817",
+      "id": 4
+    },
+    {
+      "title": "Me Kitty component reuse",
+      "description": "Meow",
+      "id": 5
+    }
+  ]
+}
